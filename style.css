@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap');
 
 :root {
-    --cor-destaque: #cc65a8;
-    --cor-gradiente-azul: linear-gradient(113deg, #0f94bd 0%, #82ccf1 44.96%, #6093c7 100%);
+    --cor-destaque: #69b00b;
+    --cor-gradiente-azul: linear-gradient(113deg, #df248e 0%, #ec0588 44.96%, #ec0570 100%);
 }
 
 * {
